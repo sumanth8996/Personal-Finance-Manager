@@ -72,9 +72,10 @@ gh repo clone sumanth8996/Personal-Finance-Manager
 - Total Expenses
 - Current Balance
 
-5. Review your recent transactions in the list at the bottom of the page
+5![pfm](https://github.com/user-attachments/assets/08f2a9b5-6938-44da-9763-f6df9126a2ea)
+. Review your recent transactions in the list at the bottom of the page
 
-/home/sumanth/projects/pfm.png
+![pfm2](https://github.com/user-attachments/assets/2339ec5e-f5c7-433f-b284-c3a52ca905f2)
 
 
 
